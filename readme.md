@@ -3,10 +3,11 @@
 此处为COT 图标拓展模组的模组发布仓库
 
 ### 使用方法
-- 页面右侧或下方发布页，下载最新模组
+- 页面右侧或下方[Release](https://github.com/HCPTangHY/CoT-IconMod/releases)，下载最新模组
 - 使用`ModLoader`加载
 
-****  
+****
+
 ### 使用规约
 本模组所有图标遵循`CC-BY-NC-SA-4.0`使用规约，您可以:
 
